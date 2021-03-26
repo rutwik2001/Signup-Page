@@ -1,3 +1,3 @@
 # Signup-Page
 
-This is a signup page created using mailchimp API. This is my first backend project. It was quiet challenging while I was doing it.
+This is a signup page created using Mailchimp API. This is my first backend project. It was quite challenging while I was doing it.
